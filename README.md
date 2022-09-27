@@ -16,3 +16,9 @@ Conclusions
 Our results identify that the provinces with high and very high vulnerability indexes are mostly located in rural areas nearby the Andes Mountains, not having a direct correlation with COVID mortality. 
 
 Keywords: COVID-19, social vulnerability, primary care, social determinants of health.
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">licencia de Creative Commons Reconocimiento 4.0 Internacional</a>.
+
+Licencia de Creative Commons
+Este obra está bajo una licencia de Creative Commons Reconocimiento 4.0 Internacional.
